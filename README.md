@@ -1,2 +1,2 @@
 # Multilingual-Translationese-Embeddings
-code for our BUCC paper and maybe paper with Katja
+Code for our BUCC paper and maybe paper with Katja
